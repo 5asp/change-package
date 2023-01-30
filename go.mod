@@ -1,4 +1,4 @@
-module github.com/fireflac/change-package
+module github.com/fireflac/change-package/v2
 
 go 1.17
 

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"io"
 
-	"github.com/fireflac/change-package/qcsv"
+	"github.com/fireflac/change-package/v2/qcsv"
 )
 
 type csvRead struct {
